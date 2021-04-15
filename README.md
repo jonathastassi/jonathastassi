@@ -7,10 +7,10 @@ Tenho desde TodoLists até ZoomClone e Loja Virtual. <br>
  
 #### Tecnogias que estou trabalhando e/ou estudando atualmente:
 - Flutter
-- Android
+- Android/Swift
 - Elixir
 - Programação funcional
-- Engenharia/Arquitetura de Software
+- Arquitetura de Software
 
  <br>
 
