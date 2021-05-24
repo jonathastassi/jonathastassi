@@ -6,11 +6,9 @@ Tenho desde TodoLists até ZoomClone e Loja Virtual. <br>
  <br>
  
 #### Tecnogias que estou trabalhando e/ou estudando atualmente:
-- Flutter
-- Android/Swift
-- Elixir
+- Desenvolvimento Mobile (Flutter e Android)
+- Desenvolvimento Backend (Elixir)
 - Programação funcional
-- Arquitetura de Software
 
  <br>
 
@@ -20,7 +18,7 @@ Tenho desde TodoLists até ZoomClone e Loja Virtual. <br>
 - React Native
 - Node
 - .NET (Core)
-- Xamarin
+- Blazor
 - PHP (Laravel)
 - Banco de dados (MySql, PostgresSQL, SQL Server e Oracle(PL))
 - Já trabalhei com desenvolvimento para desktop (Delphi, WinForms e xHarbour)
