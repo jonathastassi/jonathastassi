@@ -7,7 +7,7 @@ Tenho desde TodoLists até ZoomClone e Loja Virtual. <br>
  
 #### Tecnogias que estou trabalhando e/ou estudando atualmente:
 - Desenvolvimento Mobile (Flutter e Android)
-- Desenvolvimento Backend (Elixir)
+- Desenvolvimento Backend (Node e NestJS)
 - Programação funcional
 
  <br>
